@@ -3,7 +3,7 @@ spring:
   datasource:
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
     username: wangtao@javaprojectsql
-    password: pw12345678@
+    password: pw123456@
     url: jdbc:sqlserver://javaprojectsql.database.windows.net:1433;databaseName=JavaProjectSQL;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
 #Mysql
 #    driver-class-name: com.mysql.cj.jdbc.Driver
